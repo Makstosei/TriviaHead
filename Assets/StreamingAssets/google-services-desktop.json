@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "758944191031",
+    "firebase_url": "https://triviahead-b4078-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "triviahead-b4078",
+    "storage_bucket": "triviahead-b4078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758944191031:ios:e6ee6601ddd4ebf2b4e5b2",
+        "android_client_info": {
+          "package_name": "com.PeraGames.TriviaHead.ios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758944191031-qb3oc1189g3o3u2ce4davmginqri6kll.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6tXGulQioQNVCiKiZsPAfQi_9t26iXgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

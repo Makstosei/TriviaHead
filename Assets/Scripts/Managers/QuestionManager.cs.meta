@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 14adce1314007cb4782b795995d12a4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - qDataSO: {fileID: 11400000, guid: 779bd56ea10836443b8b2b89b488ecb1, type: 2}
+  - Answera: {fileID: 2100000, guid: 45613f5b5af243445bb90792d6fbdf9b, type: 2}
+  - Answerb: {fileID: 2100000, guid: 9e12159a5c41fcf44892737d4efa2adb, type: 2}
+  - Answerc: {fileID: 2100000, guid: 9f11fbd16908ca547b81f7917c7dc0a4, type: 2}
+  - CurrentHead: {fileID: 2100000, guid: 0ceb434f91d07a2498946aeac67eb060, type: 2}
+  - GhostHead: {fileID: 2100000, guid: b19099d39cdac2b4e97c6044d5bb785e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

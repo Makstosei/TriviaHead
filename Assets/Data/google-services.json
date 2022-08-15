@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "758944191031",
+    "firebase_url": "https://triviahead-b4078-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "triviahead-b4078",
+    "storage_bucket": "triviahead-b4078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758944191031:android:94ece52402ff70f0b4e5b2",
+        "android_client_info": {
+          "package_name": "com.PeraGames.TriviaHead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758944191031-dej7csl7d6cpllnocprmkoqm1jce54uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbuZVbZ9mBLdJReSKOnPQbwlDcNGv3IQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758944191031-dej7csl7d6cpllnocprmkoqm1jce54uu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758944191031-qb3oc1189g3o3u2ce4davmginqri6kll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.PeraGames.TriviaHead.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

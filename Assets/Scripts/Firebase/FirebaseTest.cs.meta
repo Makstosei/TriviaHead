@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4a9fa6b7d16871240a9c68189de4a944
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - qDataSO: {fileID: 11400000, guid: 779bd56ea10836443b8b2b89b488ecb1, type: 2}
+  - aref: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
